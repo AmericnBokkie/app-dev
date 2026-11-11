@@ -35,4 +35,9 @@ The game is renowned for its distinct art style, humor, deep class synergies, an
 - **Weapon of Choice:** Sniper Rifle
 - **Description:** An Australian marksman who excels at long-range elimination, taking down high-priority targets from afar.
 
+### 6. The Soldier
+- **Role:** Offense
+- **Weapon of Choice:** Rocket Launcher
+- **Description:** An American jingoistic who can rocket jump
+
 ---
